@@ -12,11 +12,15 @@ The report uses an Amazon-inspired visual theme for presentation purposes. This 
 
 ## Report Preview
 
-[Open the project walkthrough on YouTube](https://youtu.be/EJp5Qin4I58)
+| Executive Overview | Sales & Profit Performance |
+|:---:|:---:|
+| [![Executive Overview](executive-overview.jpg)](executive-overview.jpg) | [![Sales & Profit Performance](sales-profit-performance.jpg)](sales-profit-performance.jpg) |
+| Product Analysis | Orders & Market |
+| [![Product Analysis](product-analysis.jpg)](product-analysis.jpg) | [![Orders & Market](orders-market.jpg)](orders-market.jpg) |
+| Customer Analysis | Recommendations |
+| [![Customer Analysis](customer-analysis.jpg)](customer-analysis.jpg) | [![Recommendations](recommendations.jpg)](recommendations.jpg) |
 
-[![Watch the Supply Chain Performance report walkthrough](https://img.youtube.com/vi/EJp5Qin4I58/maxresdefault.jpg)](https://youtu.be/EJp5Qin4I58)
-
-*Dashboard page screenshots will be added here once the preview images have been prepared from the supplied report walkthrough.*
+[View the custom landing-page screenshot](landing-page.jpg)
 
 ## Report Structure
 
