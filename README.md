@@ -67,7 +67,6 @@ The report uses an Amazon-inspired visual theme for presentation purposes. This 
 - **[Download the Power BI report (.pbix)](Supply%20Chain%20-%20Full%20Report.pbix)**
 - **[Download the executive presentation (.pptx)](Amazon-inspired-Supply-chain-performance-and-logistics-intelligence.pptx)**
 
-*The PBIX and presentation links will work once the corresponding files are uploaded to this repository. Access to the published Power BI report may depend on its sharing permissions and sign-in requirements.*
 
 ## Project Reflection
 
